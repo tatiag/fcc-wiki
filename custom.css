@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  background-color: #3498db;
+  font-family: 'Varela Round', sans-serif !important ;
+}
+#field {
+  width:500px;
+  border:2px solid #ecf0f1;
+  height:35px;
+  font-size: 1.3em;
+  text-align: center;
+  background:none;
+  color:#ecf0f1;
+  margin-top:30px;
+}
+
+#btn{
+  background:none;
+  color:#ecf0f1;
+  font-size:1.4em;
+  height:39px;
+  border:2px solid #ecf0f1;
+  margin-bottom:-22px;
+  cursor:pointer;
+}
+#btn:hover {
+  background-color:#F5E10C;
+  color:white;
+}
+
+h1{
+  color:#F5E10C;
+  margin-top:25px;
+  font-size:3em;
+}
+
+.random {
+  color:#ecf0f1;
+  font-size:1.5em;
+  text-decoration: none;
+}
+.random:visited{
+  text-decoration: none;
+}
+.ph {
+  margin-bottom:-22px;
+}
+.answers{
+  margin-top:60px;
+}
+
+.link{
+  text-decoration:none;
+}
+
+.title{
+  color:#ecf0f1;
+}
